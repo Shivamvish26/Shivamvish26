@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shubhamhvishwakarma10@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact **In a world where all websites are responsive.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
