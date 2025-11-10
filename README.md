@@ -58,8 +58,3 @@
 </div>
 
 ---
-
-## 🎨 3D Gradient Banner (Optional Add-on)
-
-You can also add this cool 3D-style banner at the very top:
-
