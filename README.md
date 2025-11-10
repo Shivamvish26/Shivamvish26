@@ -61,8 +61,6 @@ A Frontend Developer with 1.6 years of hands-on experience building responsive, 
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=shivamvish26&theme=tokyonight&hide_border=true&border_radius=20" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamvish26&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" />
-
 </div>
 
 ---
