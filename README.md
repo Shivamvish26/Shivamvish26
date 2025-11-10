@@ -10,7 +10,7 @@
 
 <!-- 3D AVATAR -->
 <p align="center">
-  <img src="https://i.ibb.co/2dY0sXG/3d-boy-avatar.png" width="220" />
+  <img src="https://i.ibb.co/2dY0sXG/3d-boy-avatar.png](https://cdn3d.iconscout.com/3d/premium/thumb/boy-avatar-3d-4260368-3554018.png" width="220" />
 </p>
 
 ---
@@ -90,7 +90,7 @@
 
 # ✨ Animated Divider
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" />
 </p>
 
 ---
