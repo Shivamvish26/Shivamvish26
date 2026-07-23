@@ -13,7 +13,7 @@
 # 👨‍💻 About Me
 
 <p>
-A Frontend Developer with 1.6 years of hands-on experience building responsive, accessible, and high-performance web applications. Skilled in ReactJS, Tailwind CSS, Bootstrap, Node.js, and RESTful APIs, with growing expertise in Next.js, Figma, and Ant Design. I focus on writing clean, scalable code and enjoy working in collaborative, fast-paced environments while staying up-to-date with modern development practices.
+Results-driven Frontend Developer with 2+ years of experience building responsive, scalable, and high-performance web applications using React.js, React Hooks, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Node.js, and RESTful APIs. Skilled in developing reusable UI components, implementing client-side routing, integrating backend services, and delivering intuitive user experiences. Experienced in writing clean, maintainable code, optimizing application performance, and building crossbrowser compatible, mobile-first applications in Agile development environments.
 </p>
 
 ---
