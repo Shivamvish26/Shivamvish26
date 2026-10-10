@@ -90,9 +90,9 @@ export default shubham;
 ## 📡 Ping Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LINKEDIN-0d0d1a?style=flat-square&logo=linkedin&logoColor=00ffea&labelColor=0d0d1a&color=ff00ff" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/EMAIL-0d0d1a?style=flat-square&logo=gmail&logoColor=00ffea&labelColor=0d0d1a&color=ff00ff" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/PORTFOLIO-0d0d1a?style=flat-square&logo=vercel&logoColor=00ffea&labelColor=0d0d1a&color=ff00ff" /></a>
+  <a href="www.linkedin.com/in/shubham-vishwakarma-701934232"><img src="https://img.shields.io/badge/LINKEDIN-0d0d1a?style=flat-square&logo=linkedin&logoColor=00ffea&labelColor=0d0d1a&color=ff00ff" /></a>
+  <a href="mailto:shubhamhvishwakarma10@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d0d1a?style=flat-square&logo=gmail&logoColor=00ffea&labelColor=0d0d1a&color=ff00ff" /></a>
+  <a href="https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fshubhamvishwakarmadev.vercel.app%2F&urlhash=gFtQ&mt=oabuegsoG0NjmY1lTflmiFoC6aEb6cygi1R2gyc1pIXjp4YrOMaCbOSNhZUD0Q6mE69ukkHwh9kpbIOr2INDGfQ3I38&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTW56lIIrT9ajMeIZyr8vLw%3D%3D"><img src="https://img.shields.io/badge/PORTFOLIO-0d0d1a?style=flat-square&logo=vercel&logoColor=00ffea&labelColor=0d0d1a&color=ff00ff" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,50:ff00ff,100:0f0c29&height=70&section=footer&text=%22Great%20UI%20feels%20alive%22&fontSize=18&fontColor=ffffff" width="100%" />
