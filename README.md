@@ -1,98 +1,98 @@
-<!-- NEON HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=280&section=header&text=Shubham%20Vishwakarma&fontSize=55&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
-</p>
+<!-- BOOT BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f0c29,50:ff00ff,100:00ffff&height=220&section=header&text=SHUBHAM%20VISHWAKARMA&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=%3Cfrontend%20%2F%3E%20%2B%20%3Cdesign%20%2F%3E&descSize=18&descAlignY=72" width="100%" />
 
-<!-- TYPING ANIMATION -->
+<!-- FAKE TERMINAL -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=1200&color=00E4FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+%7C+Node.js;UI%2FUX+%7C+3D+Design+Enthusiast;Crafting+Neon+and+Interactive+Experiences" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivamvish26&color=00e4ff&style=for-the-badge&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/badge/Open%20to-Work-ff00ff?style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=900&color=00FFEA&background=0D0D1A&center=false&vCenter=true&multiline=true&width=640&height=140&lines=%24+whoami;%3E+shubham+%E2%80%94+frontend+dev+%7C+pune%2C+in;%24+npm+run+build+%22something+that+glows%22;%3E+compiling+neon...+done+%E2%9C%94;%24+_" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## ⌨️ `developer.config.js`
 
-Frontend Developer with **2+ years** of experience building responsive, scalable, high-performance web apps using **React.js, Next.js, JavaScript (ES6+), Node.js** and RESTful APIs.
+```js
+const shubham = {
+  role: "Frontend Developer",
+  experience: "2+ years",
+  location: "Pune, India 🇮🇳",
 
-- 🧩 I build reusable UI components and clean, maintainable code
-- ⚡ I optimize performance and ship mobile-first, cross-browser interfaces
-- 🤝 I work in Agile teams and integrate backend services smoothly
-- 🎨 I'm into UI/UX and 3D design, and love neon-style interactions
+  stack: {
+    daily:     ["React", "Next.js", "Tailwind", "JavaScript (ES6+)"],
+    backend:   ["Node.js", "Express", "REST APIs"],
+    design:    ["Figma", "Ant Design", "3D / UI-UX experiments"],
+    cms:       ["WordPress", "Joomla"],
+  },
+
+  principles: [
+    "Great UI feels alive",
+    "Great UX feels effortless",
+    "Ship fast, refactor cleanly",
+  ],
+
+  currently: {
+    building:  "advanced UI components",
+    exploring: "performance + micro-animations",
+    learning:  "creative WebGL / 3D on the web",
+  },
+
+  openToWork: true,
+  funFact: "I judge a website by its hover states.",
+};
+
+export default shubham;
+```
 
 ---
 
-# 🚀 Tech Stack
+## 🧰 Stack Loadout
 
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-E54C21?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-00D8FF?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7b2cbf?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-1F8F17?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" />
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-<img src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,figma,git,github,docker,wordpress&perline=13&theme=dark" />
 </p>
 
 ---
 
-# 🔥 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| **[Project Name](https://github.com/shivamvish26/repo)** | One line on what it does | React, Node.js |
-| **[Project Name](https://github.com/shivamvish26/repo)** | One line on what it does | Next.js, Tailwind |
-| **[Project Name](https://github.com/shivamvish26/repo)** | One line on what it does | JavaScript, CSS |
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shivamvish26&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=shivamvish26&theme=tokyonight&hide_border=true&border_radius=20" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamvish26&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" />
-</div>
-
----
-
-# 🛠️ Currently Working On
-
-- ✅ Building advanced UI components
-- ✅ Next.js + Tailwind projects
-- ✅ Improving performance and animations
-
----
-
-# 📫 Let's Connect
+## 🎮 Player Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-ff00ff?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-00E4FF?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamvish26&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivamvish26&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamvish26&bg_color=0d0d1a&color=00ffea&line=ff00ff&point=ffffff&area=true&area_color=ff00ff&hide_border=true" width="95%" />
 </p>
 
 ---
 
-<p align="center"><b>✨ "Great UI feels alive — great UX feels effortless." ✨</b></p>
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=200&section=footer" />
+  <img src="https://raw.githubusercontent.com/shivamvish26/shivamvish26/output/github-contribution-grid-snake-dark.svg" width="95%" />
 </p>
+
+---
+
+<details>
+<summary><b>🕹️ Secret level (click me)</b></summary>
+
+<br>
+
+- 🎧 I code best with lo-fi and a very dark IDE theme
+- 🌈 My favourite colours are `#ff00ff` and `#00ffff`
+- 🧪 I prototype ideas in CodePen before they become real projects
+- 💬 Ask me about: React performance, Tailwind tricks, glow effects
+
+</details>
+
+---
+
+## 📡 Ping Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LINKEDIN-0d0d1a?style=flat-square&logo=linkedin&logoColor=00ffea&labelColor=0d0d1a&color=ff00ff" /></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/EMAIL-0d0d1a?style=flat-square&logo=gmail&logoColor=00ffea&labelColor=0d0d1a&color=ff00ff" /></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/PORTFOLIO-0d0d1a?style=flat-square&logo=vercel&logoColor=00ffea&labelColor=0d0d1a&color=ff00ff" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,50:ff00ff,100:0f0c29&height=70&section=footer&text=%22Great%20UI%20feels%20alive%22&fontSize=18&fontColor=ffffff" width="100%" />
